@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "17bc1642159e2c42aa12a4a374f62175",
+const RESOURCES = {"flutter_bootstrap.js": "3c4757730e92c7a6d6940002fd99cbe1",
 "version.json": "cf5e514d24156b927098c9d59d4f6a3a",
 "index.html": "07dd16317e03ec2ffbf410668fe2fd52",
 "/": "07dd16317e03ec2ffbf410668fe2fd52",
-"main.dart.js": "cfbe984e6f64e5a6476a5f7731cd9e82",
+"main.dart.js": "49abdd34140ed3cce2d91a1b10eb84fc",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
 "favicon.png": "aebd765bd5b2401c4155da097b63679a",
 "icons/icon512.png": "11189c3a94b656cb11292a4941e9ea74",
@@ -21,7 +21,7 @@ const RESOURCES = {"flutter_bootstrap.js": "17bc1642159e2c42aa12a4a374f62175",
 "assets/packages/quill_native_bridge_linux/assets/xclip": "d37b0dbbc8341839cde83d351f96279e",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "aab4f0b074614cab2f1fb7448998bacb",
-"assets/fonts/MaterialIcons-Regular.otf": "3aa6a802d66dd732f6245eae8429c770",
+"assets/fonts/MaterialIcons-Regular.otf": "188416665f90cdd8723529128dd720cb",
 "assets/assets/fonts/Mallanna-Regular.ttf": "d645f4f5a747316b8c4244e85084255a",
 "assets/assets/fonts/AlibabaHealthFont2.0CN-45R.ttf": "79c620d835f1433230a136db53152dbf",
 "service_worker.js": "8d80506ce55b995e73c5442f28471141",
